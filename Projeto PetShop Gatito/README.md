@@ -24,10 +24,10 @@ A partir daí, começamos a trabalhar com as métricas: fizemos uma entrevista c
 ## Prints
 
 ### Dashboard (desktop)
-![Dashboard desktop](imagens/dashboard-desktop.png)
+![Dashboard desktop](img/dashboard-desktop.png)
 
 ### Layout mobile
-![Dashboard mobile](imagens/dashboard-mobile.png)
+![Dashboard mobile](img/dashboard-mobile.png)
 
 ## Principais insights
 
