@@ -2,7 +2,7 @@
 
 Dashboard interativo desenvolvido no **Power BI Desktop** como projeto do curso de Power BI da Alura, analisando as vendas de um petshop fictício.
 
-🔗 **(https://gatito-petshop-dashboard.vercel.app/)**
+🔗 **https://gatito-petshop-dashboard.vercel.app/**
 
 ## Sobre o projeto
 
