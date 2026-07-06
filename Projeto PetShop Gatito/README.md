@@ -44,7 +44,7 @@ A partir daí, começamos a trabalhar com as métricas: fizemos uma entrevista c
 
 ## Como abrir o projeto
 
-1. Baixe o arquivo [`gatito-petshop.pbix`](./gatito-petshop.pbix) deste repositório
+1. Baixe o arquivo [`PetShopGatito.pbix`](./PetShopGatito.pbix) deste repositório
 2. Abra no [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (gratuito)
 3. Use os filtros de marca e data para explorar os dados interativamente
 
